@@ -1,5 +1,5 @@
-Sub-committee policy
-====================
+Sub-committee policy (GovHack Fork)
+===================================
 
 Definitions
 -----------
@@ -14,6 +14,20 @@ finance, advice and insurance. For example small conferences such as Drupal
 Down Under, Wordcamp, PyCon etc. This type of sub-committee is distinguished
 by the need to operate a bank account and must at the minimum have a
 coordinator and a treasurer.
+
+The annual GovHack event is the latter type.
+
+GovHack Australia
+-----------------
+
+GovHack is an annual national hackfest event held across Australia run by 
+community volunteers at a national and local level, usually ran around the 
+middle of the calendar year. It also has an awards event held a month or two 
+after the hackfest. The competition aims to build the civic hacker community 
+in Australia, open up more government data, get governments, industry and 
+community working collaboratively and support a greater adoption of the 
+traditional hacker ethos common to the world of Free and Open Source 
+Software. Full details of GovHack can be found at http://govhack.org
 
 General Rules
 -------------
@@ -36,13 +50,11 @@ with the consent of the coordinator.
 Expenses
 --------
 
-Sub-committees not operating a bank account are not required to publish a
-budget unless the council specifically requests one or the sub-committee sees
-fit. Any expenses made or incurred by the sub-committee require approval prior
-to occurring by emailing a request to the council. If the expense is approved,
-processing of the payment or reimbursement is done by the Linux Australia
-Treasurer on sight of the invoice or receipt. (See
-[Financial Process Guide][FPG])
+The GovHack sub-committees operates a budget and requires a bank account. The
+budget must be presented to the council and available on an ongoing basis for
+oversight. The council may transfer funds between the GovHack operating account
+and the high interest LA account as is beneficial to do so, with timing agreed
+between the council and sub-committee.
 
 Roles and responsibilities
 --------------------------
@@ -104,48 +116,30 @@ particular infrastructure. Things such as VM's, Drupal instances, wiki pages
 and mailing lists can be provided upon request to the relevant teams
 (web-team, admin-team).
 
-User Groups as sub-committees
------------------------------
+Provisions specific to GovHack
+------------------------------
 
-To assist with running user groups, UGs may become a sub-committee of Linux
-Australia. This involves primarily following the procedures outlined in this
-document with a few exceptions.
+As GovHack may result in a surplus at the end of the event, part of the surplus
+will be allocated to Linux Australia and/or other open knowledge organisations 
+for broader community development. The remainder would be available as seed
+funding for the next GovHack event. This split would be at the discretion of the 
+GovHack subcommittee that ran the event resulting in the surplus, with oversight
+by the Linux Australia council.
 
-Due to typically low financial activities involved in running a UG (especially
-given the available infrastructure Linux Australia can provide) it may be
-accepted that no budget is necessary and no bank accounts are provided. If
-this is the case, irregular expenses can be made by submitting applications to
-the council (often through the Grants Programme) as per the
-[Financial Process Guide][FPG].
+Funds made available to Linux Australia would be available to the community as
+grants through the LA Grants Scheme (https://linux.org.au/projects/grants).
 
-It may be appropriate that user groups will develop their own policies, both
-regarding the operations of the sub-committee and regarding its interactions
-with the outside world. Where these policies extend beyond the authority
-already delegated by the Council, these policies must be presented to LA for
-discussion and approval. The default position will be for LA to approve all
-policies if no significant dissent is raised within 14 days.
+Local GovHack events as delegates of the sub-committees
+-------------------------------------------------------
 
-For example, it is expected that user groups would hold their own internal
-annual elections to appoint a co-ordinator, treasurer, and other such
-positions as the user group determines are needed. Unless LA are presented
-with strong reasons not to do so, LA will honour these elections and make the
-requested changes to the membership of the sub-committee.
-
-Return
-------
-
-Any profit made by a sub-committee from an event (or otherwise) goes back to
-Linux Australia. These monies are rolled into Linux Australia's general
-budget. However if the event is ongoing the next year budget may take this
-into account. For example, if your sub-committee turned over $10k in profit
-one year it would not be unreasonable to ask the council to grant an extra $5k
-towards the following years budget to do something cool for attendees(such as
-buying top hats). This allows previous years' surplus to cover the red from
-any future budgets. It is also hoped that the communities that the
-sub-committees represent will also try to take advantage of Linux Australia's
-grants programme. In the mid-term, Linux Australia uses its funds to support
-other events, organisations and grants throughout the year while earning
-interest on any surplus.
+Local GovHack events are run by local volunteers around the country. Each local 
+event that is supported by the National GovHack team has a local coordinator 
+who has delegated power from the sub-committee to raise money, run their local
+event, coordinate local volunteers and to spend up to a pre-agreed amount from
+the national budget. The National GovHack team has a coordinator specifically
+to work closely with all the local event coordinators in ensuring all local 
+events are run properly with oversight. As such, the powers delegated from the
+National team are low risk.
 
 Insurance
 ---------
