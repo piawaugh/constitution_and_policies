@@ -1,5 +1,5 @@
-Sub-committee policy (GovHack Fork)
-===================================
+GovHack sub-committee policy
+============================
 
 Definitions
 -----------
@@ -15,7 +15,7 @@ Down Under, Wordcamp, PyCon etc. This type of sub-committee is distinguished
 by the need to operate a bank account and must at the minimum have a
 coordinator and a treasurer.
 
-The annual GovHack event is the latter type.
+The GovHack sub-committee is the latter type.
 
 GovHack Australia
 -----------------
@@ -182,3 +182,84 @@ and its governance, visit http://linux.org.au.
 
 [FPG]: http://linux.org.au/policies/financial-procedure-guide "Financial Process Guide"
 [EP]: https://github.com/linuxaustralia/constitution_and_policies/blob/master/expense_policy.md "Expenses Policy"
+
+
+## Structure
+The GovHack sub-committee is formed each year from existing and new members, who must be Linux Australia members and will continue to exist at the discretion of the Council. Subcommittee members serve at the discretion of the council.
+
+The council may also appoint any number of observers as they see fit.
+
+At least the following roles should be in place:
+
+### GovHack Lead (Conference Director; President of the subcommittee)
+The lead organiser of the conference, and presides over any meeting of the subcommittee. Is directly responsible for the forthcoming instance of the conference.
+
+### Treasurer
+A member of the site team. Is responsible for preparing conference budgets for consideration by the subcommittee. Prepares invoices for debtors. Prepares payments from the conference bank account for approval, and is responsible for ensuring conference debts are paid on time.
+
+### Community Representative
+Advises the subcommittee on decisions, and acts as a guiding influence to the remainder of the subcommittee. Ensures that financial decisions made by the site team have the long-term interest of the conference and LA in mind. Should be appointed from past organisers of the conference, or from trusted members of the community. 
+
+### Bank Account Managers
+The The Community representative appoint at least two voting members with the ability to sign payments to the conference bank account: one must be the subcommittee treasurer. 
+
+### Events Coordinator
+This role engages with, supports, delegates to and generally works closely with the local event coordinators around the country to ensure each GovHack event is consistent, well run and in alignment with the goals of GovHack, within budget.
+
+### Other Roles
+Steering subcommittees may at their discretion define other formal roles, which may be fulfilled either by voting members of the subcommittee, or by observers.
+
+## Role of the Subcommittee
+Subcommittees will perform at least the following tasks, to ensure that their conference runs successfully, is handed over, and reports their financial situation to the council.
+
+### Nomination of the Community Representative
+* The Community representative shall be nominated by the membership, or by the Linux Australia council.
+* The Community representative shall be appointed by council from nominees.
+* The Community representative shall serve for terms of one year, commencing from the conclusion of one conference, to the conclusion of the following year’s conference.
+* The Community representative may be appointed for further terms as council and subcommittee sees fit.
+
+### Conference Bids and Selection (Appointment of New Site Team Representatives)
+* The subcommittee will select the next years subcommittee members, who will prepare a budget for approval by Linux Australia.
+* The outgoing site representatives shall remain as observers until council has deemed that the business of their rotation of the conference has concluded.
+Handover and Delegation of Authority
+* Observers to the subcommittee are either appointed automatically through processes in this policy, or by the voting members of the subcommittee.
+* The subcommittee may appoint observers to the subcommittee by majority vote.
+
+### Budgeting
+ Long-term concerns include funding outreach programmes, and returning a profit to Linux Australia
+* Budget decisions must be submitted to the Linux Australia Council for final approval, accompanied by a report.
+* Subcommittees must act within the constraints of the budget most recently approved by Council.
+* The accuracy of budgets should be evidenced by written quotations and contracts where such documentation exists.
+* Documentation of costs and liabilities must be required for items representing more than 3% of the total expenses of the conference, or $5000, whichever is lower.
+
+### Conference Proceeds
+* The council takes care of a number of expenses conferences incur, such as insurance, accounting/tax issues, credit card processing fees. The council will provide the amounts/formulas for these entries to be included as expenses in the subcommittee budget.
+* Conferences must nominate a level of contingency for unforeseen expenses, and may be asked to nominate a surplus component in their budget. These amounts must meet the approval of council.  The surplus proceeds of a conference contribute to the ongoing financial stability of Linux Australia and its ability to facilitate and support open technology communities.
+
+### Reporting
+* The subcommittee must report to the Linux Australia council regularly, in the form of minuted decisions and reports made by the subcommittee, including any budget updates.
+* Minutes shall be made available to the membership; items may be denoted in camera for items that need to be kept private to the subcommittee and council.
+* Financial obligations (including payment amounts and deadlines) must be reported, so the Council treasurer can make funds available to the subcommittee at appropriate times.
+* New financial obligations must be reported alongside an updated budget which takes into account the current financial situation of the conference.
+Council may, from time to time, request to meet with subcommittee members to discuss the state of the conference.
+
+### Responsibilities of Linux Australia
+* Linux Australia and the council will ensure that the following tasks are completed, to allow the subcommittee to successfully run the conference.
+Budgeting and Conference Finance
+* The Council shall consider, and vote upon budgets submitted by the subcommittee at the first available opportunity.
+* The Council shall hold the conference’s funds until such time as the Council believes these are required by the subcommittee.
+* The Council will release funds to the Site Chair and Treasurer to execute; the amount of funds made available should take into account contracted payment deadlines, per the reports made by the subcommittee.
+
+### Appointment of Subcommittee Members
+* Council shall appoint subcommittee members from eligible nominations in a time frame that will not impact the operation of the conference.
+* Where a council appoints new members to the subcommittee, the council will update the subcommittee register appropriately.
+* The council will not appoint subcommittee members without a minuted nomination from the membership, except:
+* When the community fails to nominate members after members’ designated terms expire
+* When it is of the opinion of the council that the subcommittee is acting against the financial interests of Linux Australia
+
+### Expulsion of Subcommittee Members
+* Where the subcommittee passes an expulsion motion, the Council will, at the first available opportunity, ensure that the subcommittee register is updated, and that a replacement is appointed in line with the policy.
+
+### Dispute Resolution
+* Any member of the association may appeal to the Linux Australia council regarding a minuted decision of the subcommittee to request arbitration. In this case, arbitration may be performed at the discretion of council.
+*If two subcommittee members appeal to the Linux Australia council regarding a minuted decision of the subcommittee, the Linux Australia council MUST engage in arbitration.
