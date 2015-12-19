@@ -167,8 +167,8 @@ send a copy to treasurer@linux.org.au
 *Note:* If you are doing anything out of the ordinary like rocket launches
 then we need to let our insurer know.
 
-Website spiel
--------------
+Website recognition
+-------------------
 
 The following is a suggested spiel for subcommittees to place on their
 websites:
@@ -195,7 +195,7 @@ At least the following roles should be in place:
 The lead organiser of the conference, and presides over any meeting of the subcommittee. Is directly responsible for the forthcoming instance of the conference.
 
 ### Treasurer
-A member of the site team. Is responsible for preparing conference budgets for consideration by the subcommittee. Prepares invoices for debtors. Prepares payments from the conference bank account for approval, and is responsible for ensuring conference debts are paid on time.
+The Treasurer role is focussed as an approver, maintaining budgets and actuals (national and some local oversight) for the subcommittee, reconciliations, analysis and reporting as well as approvals for invoices and payments. Actual preperation, sending and followup of invoices, payments and other administrative work can be done by other members of the team at the delegation of the Treasurer.
 
 ### Community Representative
 Advises the subcommittee on decisions, and acts as a guiding influence to the remainder of the subcommittee. Ensures that financial decisions made by the site team have the long-term interest of the conference and LA in mind. Should be appointed from past organisers of the conference, or from trusted members of the community. 
